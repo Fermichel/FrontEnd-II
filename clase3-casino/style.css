@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:sans-serif;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+.contenedor{
+    margin: auto;
+    max-width: 500px;
+    height: 100vh;
+    max-height: 800px;
+    background-color: blanchedalmond;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+}
+#casino-img{
+    border-radius:3%;
+}
+p{
+    padding: 20px;
+    text-align: center;
+}
+.contBtn{
+    
+    
+}
+#btn{
+    margin: 5px;
+    width: 50%;
+    height: 40%;
+    background-color: pink;
+    border: 0ch;    
+}
+footer{
+    margin: auto;
+    max-width: 500px;
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
