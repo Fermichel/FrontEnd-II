@@ -15,13 +15,7 @@ const campos = {
 	correo: false,
 	telefono: false
 }
-// const baseDatos={
-//     usuario: "",
-// 	nombre: "",
-// 	password: "",
-// 	correo: "",
-// 	telefono: ""
-// }
+
 
 function validarFormulario(e){
     switch (e.target.name){
